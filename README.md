@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install default_controller
 
 ## Usage
-
+```ruby
 -----Sample for ApplicationController
 
 class ApplicationController < ActionController::Base
@@ -37,7 +37,7 @@ end
 class UsersController < ApplicationController
 
 end
-
+```
 
 ## Contributing
 
