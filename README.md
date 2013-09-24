@@ -22,8 +22,6 @@ Or install it yourself as:
 
 -----Sample for ApplicationController
 
-require "default_controller"
-
 class ApplicationController < ActionController::Base
 
   include DefaultController
